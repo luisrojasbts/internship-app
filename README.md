@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Internship App
 
 You can use or download this repository, and take it as a base to work on the next activities. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
