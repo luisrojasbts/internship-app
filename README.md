@@ -9,3 +9,10 @@ Once you have downloaded this repository you have to execute the following comma
 ```
 npm install
 ```
+
+This project includes dependecies such as:
+- React
+- React Dom
+- React Router v6
+
+Feel free to add or install all dependecies you need!
