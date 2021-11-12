@@ -1,5 +1,11 @@
+import { Menu } from '../../components';
 import './Private.css';
 
 export function Private() {
-  return <h1>Private Page</h1>;
+  return (
+    <>
+      <Menu />
+      <h3>Private Page</h3>
+    </>
+  );
 }

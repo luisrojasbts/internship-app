@@ -1,5 +1,11 @@
+import { Menu } from '../../components';
 import './Home.css';
 
 export function Home() {
-  return <h3>Home Page</h3>;
+  return (
+    <>
+      <Menu />
+      <h3>Home Page</h3>
+    </>
+  );
 }
